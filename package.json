@@ -1,0 +1,12 @@
+{
+  "name": "plone-gatsby-theme",
+  "version": "1.0.0",
+  "description": "plone-gatsby-theme",
+  "workspaces": [
+    "gatsby-plone-site",
+    "packages/*"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
