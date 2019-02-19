@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "demo-2d1",
+        "path": "/demo/"
+    },
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "demo-a-event-3f2",
+        "path": "/demo/a-event/"
+    },
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "demo-a-folder-69d",
+        "path": "/demo/a-folder/"
+    },
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "demo-a-folder-a-page-inside-a-folder-106",
+        "path": "/demo/a-folder/a-page-inside-a-folder/"
+    },
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "demo-a-news-item-470",
+        "path": "/demo/a-news-item/"
+    },
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "demo-a-page-375",
+        "path": "/demo/a-page/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "frontpage-f0c",
+        "path": "/frontpage/"
+    },
+    {
+        "componentChunkName": "component---packages-gatsby-plone-theme-src-templates-default-js",
+        "jsonName": "mosaic-demo-page-6d9",
+        "path": "/mosaic-demo-page/"
+    }
+]

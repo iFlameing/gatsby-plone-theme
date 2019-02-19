@@ -1,5 +1,9 @@
 module.exports = {
     __experimentalThemes: [
-        "gatsby-theme-plone"
+        {
+            resolve : "gatsby-theme-plone",
+            options : {},
+
+        }
     ]
 }

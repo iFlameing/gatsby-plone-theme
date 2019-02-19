@@ -50,7 +50,7 @@ exports.createPages = async ({ graphql, actions }) => {
     .forEach(({ node }) => {
       createPage({
         path: node._path,
-        component: path.resolve('./src/templates/default.js'),
+        component: path.resolve('../packages/gatsby-plone-theme/src/templates/default.js'),
       });
     });
 };

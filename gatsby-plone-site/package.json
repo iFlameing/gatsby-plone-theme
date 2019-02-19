@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "develop": "gatsby develop",
+    "develop": "gatsby develop --no-cache",
     "build": "gatsby build"
   },
   "dependencies": {

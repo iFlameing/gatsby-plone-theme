@@ -27,7 +27,7 @@ module.exports = {
         background_color: '#ffffff',
         theme_color: '#007eb6',
         display: 'standalone',
-        icon: 'src/images/icon.png',
+        icon: '../packages/gatsby-plone-theme/src/images/icon.png',
     },
   },
     'gatsby-plugin-offline',

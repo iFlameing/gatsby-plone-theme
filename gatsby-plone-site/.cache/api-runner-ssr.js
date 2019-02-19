@@ -1,6 +1,6 @@
 var plugins = [{
       plugin: require('/home/iflameing/Documents/github/gatsby-theme/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Gatsby Starter Plone","short_name":"Plone","start_url":"/","background_color":"#ffffff","theme_color":"#007eb6","display":"standalone","icon":"src/images/icon.png"},
+      options: {"plugins":[],"name":"Gatsby Starter Plone","short_name":"Plone","start_url":"/","background_color":"#ffffff","theme_color":"#007eb6","display":"standalone","icon":"../packages/gatsby-plone-theme/src/images/icon.png"},
     },{
       plugin: require('/home/iflameing/Documents/github/gatsby-theme/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
