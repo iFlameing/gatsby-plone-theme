@@ -1,3 +1,4 @@
+const path = require('path')
 module.exports = {
   siteMetadata: {
     title: 'Kickstart Gatsby static site development with Plone',
@@ -29,6 +30,12 @@ module.exports = {
         display: 'standalone',
         icon: require.resolve('./src/images/icon.png'),
     },
+  },
+  {
+    resolve: 'gatsby-plugin-page-creator',
+    options: {
+      path: path.join(__dirname, 'src', 'pages')
+    }
   },
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
