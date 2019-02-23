@@ -1,7 +1,7 @@
 import React from 'react';
 import Img from 'gatsby-image';
 import { graphql } from 'gatsby';
-import RichText from './RichText';
+import { RichText } from 'gatsby-theme-plone'
 
 const NewsItem = ({ data, images, files }) => (
   <article key={data._id}>
