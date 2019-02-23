@@ -51,6 +51,7 @@ exports.createPages = async ({ graphql, actions }) => {
       createPage({
         path: node._path,
         component: require.resolve('./src/templates/default.js'),
+        context: { slug: node._path },
       });
     });
 };
